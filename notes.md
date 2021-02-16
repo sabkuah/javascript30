@@ -11,3 +11,5 @@ The Document method querySelector() returns the first Element within the documen
 key.classList.add("playing"); //adds class
 key.classList.remove("playing"); //adds class
 key.classList.toggle("playing"); //adds class
+
+## 02
